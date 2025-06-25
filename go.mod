@@ -1,4 +1,4 @@
-module github.com/rhobs/prometheus-example-app
+module github.com/pgillich/prometheus-example-app
 
 go 1.21
 
